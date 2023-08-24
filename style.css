@@ -1,0 +1,29 @@
+html{
+    background: url(./assests/images/bkg-3.jpg) no-repeat fixed;
+    background-size: cover;
+}
+.Welcome{
+    color:blue;
+    font-family: 'Courgette', cursive;
+    font-weight: bold;
+    font-style: italic;
+}
+.Motivation{
+    text-align:right;
+    color: darkorange;
+}
+.memes{
+    text-align: center;
+}
+.meme-1{
+    color: brown;
+    font-style: italic;
+}
+.img-1{
+    width: 450px;
+}
+.para{
+    font-weight: normal;
+    color: black;
+}
+
